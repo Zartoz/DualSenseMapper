@@ -46,3 +46,4 @@ dotnet build .\\DualSenseMapper.csproj
 
 - The repo ignores generated output folders like `bin`, `obj`, `build-check`, and `DualSenseMapper-App`.
 - The virtual controller appears as an Xbox 360 controller, which is expected for this project.
+- Vibe Coded
