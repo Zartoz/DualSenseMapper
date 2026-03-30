@@ -34,9 +34,7 @@ Or build it:
 dotnet build .\\DualSenseMapper.csproj
 ```
 
-2. Download from release:
-
-[Latest Release](../../releases/latest)
+2. Download from release:  ** [Latest Release](../../releases/latest) **
 
 ## Files
 
