@@ -22,7 +22,7 @@ DualSenseMapper is a lightweight Windows app that maps a Sony DualSense controll
 
 ## Run
 
-Build and run from the project:
+1. Build and run from the project:
 
 ```powershell
 dotnet run --project .\\DualSenseMapper.csproj
@@ -33,6 +33,9 @@ Or build it:
 ```powershell
 dotnet build .\\DualSenseMapper.csproj
 ```
+
+2. Download from release:
+[Latest Release](../../releases/latest)
 
 ## Files
 
