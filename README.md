@@ -2,7 +2,7 @@
 
 DualSenseMapper is a lightweight Windows app that maps a Sony DualSense controller to a virtual Xbox 360 controller.
 
-## PREVIEW
+## Preview
 <img width="593" height="421" alt="ui" src="https://github.com/user-attachments/assets/996b5c6b-38d6-4aba-aff6-c6cdd782f07a" />
 
 ## Features
